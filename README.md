@@ -37,27 +37,30 @@ like these step-by-step in a beginner-friendly manner!
 
 ## <a name="introduction">🤖 Introduction</a>
 
-Built with React Native for handling the user interface, Google Maps for rendering maps with directions, stripe for
-handling payments, serverless Postgres for managing databases, and styled with TailwindCSS, Uber Clone is a perfect
-mobile app. The primary goal is to demonstrate how to develop full-stack mobile applications to showcase the developer's
-skills in a unique manner that creates a lasting impact.
-
-If you're getting started and need assistance or face any bugs, join our active Discord community with over **34k+**
-members. It's a place where people help each other out.
+Welcome to the YouTube Clone – a fully responsive and interactive web application built using React JS. This project replicates core features of YouTube, including video browsing, search functionality, video playback, and channel information.
 
 <a href="https://discord.com/invite/ZwbTTDWGF8" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
 - React
+- Axios
 - Rapid API
 - TailwindCSS
+- Material UI
+- React Router DOM
 
 ## <a name="features">🔋 Features</a>
 
-👉 **Onboarding Flow**: Seamless user registration and setup process.
-
-
+👉 Homepage Feed: Displays trending and category-based videos fetched via YouTube API.
+👉 Video Playback Page: Responsive video player with title, description, views, likes, and comments section.
+👉 Search Functionality: Real-time video search with instant result updates.
+👉 Channel Pages: Dedicated pages showing channel info and all uploaded videos.
+👉 Related Videos Sidebar: Suggests similar videos alongside the current one.
+👉 Responsive Design: Optimized for desktops, tablets, and mobile devices.
+👉 Routing with React Router: Smooth page navigation using client-side routing.
+👉 API Integration: Powered by RapidAPI’s YouTube Data API v3.
+👉 Material UI Components: Clean and modern user interface with consistent styling.
 
 ## <a name="quick-start">🤸 Quick Start</a>
 
