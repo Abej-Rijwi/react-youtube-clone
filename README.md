@@ -6,9 +6,12 @@
   <br />
 
   <div>
-      <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-      <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-      <img src="https://img.shields.io/badge/-RapidAPI-000000?style=for-the-badge&logo=rapidapi&logoColor=white" alt="RapidAPI" />
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-0EA5E9?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+      <img src="https://img.shields.io/badge/RapidAPI-1062FE?style=for-the-badge&logo=rapidapi&logoColor=white" alt="RapidAPI" />
+      <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios" />
+      <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=MUI&logoColor=white" alt="Material UI" />
+      <img src="https://img.shields.io/badge/React_Router_DOM-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" alt="React Router DOM" />
   </div>
 
   <h3 align="center">Full Stack YouTube Clone</h3>
@@ -52,15 +55,15 @@ Welcome to the YouTube Clone – a fully responsive and interactive web applicat
 
 ## <a name="features">🔋 Features</a>
 
-👉 Homepage Feed: Displays trending and category-based videos fetched via YouTube API.
-👉 Video Playback Page: Responsive video player with title, description, views, likes, and comments section.
-👉 Search Functionality: Real-time video search with instant result updates.
-👉 Channel Pages: Dedicated pages showing channel info and all uploaded videos.
-👉 Related Videos Sidebar: Suggests similar videos alongside the current one.
-👉 Responsive Design: Optimized for desktops, tablets, and mobile devices.
+👉 **Homepage Feed**: Displays trending and category-based videos fetched via YouTube API.
+👉 **Video Playback Page**: Responsive video player with title, description, views, likes, and comments section.
+👉 **Search Functionality**: Real-time video search with instant result updates.
+👉 **Channel Pages**: Dedicated pages showing channel info and all uploaded videos.
+👉 **Related Videos Sidebar**: Suggests similar videos alongside the current one.
+👉 **Responsive Design**: Optimized for desktops, tablets, and mobile devices.
 👉 Routing with React Router: Smooth page navigation using client-side routing.
-👉 API Integration: Powered by RapidAPI’s YouTube Data API v3.
-👉 Material UI Components: Clean and modern user interface with consistent styling.
+👉 **API Integration**: Powered by RapidAPI’s YouTube Data API v3.
+👉 **Material UI Components**: Clean and modern user interface with consistent styling.
 
 ## <a name="quick-start">🤸 Quick Start</a>
 
