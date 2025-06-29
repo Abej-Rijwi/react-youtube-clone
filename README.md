@@ -56,13 +56,21 @@ Welcome to the YouTube Clone – a fully responsive and interactive web applicat
 ## <a name="features">🔋 Features</a>
 
 👉 **Homepage Feed**: Displays trending and category-based videos fetched via YouTube API.
+
 👉 **Video Playback Page**: Responsive video player with title, description, views, likes, and comments section.
+
 👉 **Search Functionality**: Real-time video search with instant result updates.
+
 👉 **Channel Pages**: Dedicated pages showing channel info and all uploaded videos.
+
 👉 **Related Videos Sidebar**: Suggests similar videos alongside the current one.
+
 👉 **Responsive Design**: Optimized for desktops, tablets, and mobile devices.
-👉 Routing with React Router: Smooth page navigation using client-side routing.
+
+👉 **Routing with React Router**: Smooth page navigation using client-side routing.
+
 👉 **API Integration**: Powered by RapidAPI’s YouTube Data API v3.
+
 👉 **Material UI Components**: Clean and modern user interface with consistent styling.
 
 ## <a name="quick-start">🤸 Quick Start</a>
