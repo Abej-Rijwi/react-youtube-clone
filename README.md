@@ -107,3 +107,23 @@ Create a new file named `.env` in the root of your project and add the following
 ```env
 REACT_APP_RAPID_API_KEY=
 ```
+
+**Set Up Environment Variables**
+
+Create a new file named `.env` in the root of your project and add the following content:
+
+```env
+REACT_APP_RAPID_API_KEY=
+REACT_APP_YOUTUBE_API_KEY=
+ESLINT_NO_DEV_ERRORS=true
+```
+
+Replace the placeholder values with your actual credentials. You can obtain these credentials by signing up on the corresponding websites from [Rapid API You-Tube Search](https://rapidapi.com/h0p3rwe/api/youtube-search-and-download) to [Rapid API You-Tube v311](https://rapidapi.com/Glavier/api/youtube-v311/)
+
+**Running the Project**
+
+```bash
+npm run dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
