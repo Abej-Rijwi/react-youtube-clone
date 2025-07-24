@@ -106,14 +106,6 @@ Create a new file named `.env` in the root of your project and add the following
 
 ```env
 REACT_APP_RAPID_API_KEY=
-```
-
-**Set Up Environment Variables**
-
-Create a new file named `.env` in the root of your project and add the following content:
-
-```env
-REACT_APP_RAPID_API_KEY=
 REACT_APP_YOUTUBE_API_KEY=
 ESLINT_NO_DEV_ERRORS=true
 ```
